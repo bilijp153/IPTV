@@ -1148,7 +1148,7 @@ http://119.98.175.25:85/rtp/239.69.1.241:11088
 http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="10" tvg-name="CHC高清电影" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CHC高清电影.png" group-title="影视",CHC高清电影
 http://106.59.3.147:55555/udp/239.200.201.34:8148
-
+#EXTINF:-1 tvg-id="10" tvg-name="CHC高清电影" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CHC高清电影.png" group-title="影视",CHC高清电影
 http://113.86.204.120:9999/udp/239.11.0.129:1025
 #EXTINF:-1 tvg-id="18" tvg-name="CHC高清电影" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CHC高清电影.png" group-title="影视",CHC高清电影
 http://iptvcyp.top:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
