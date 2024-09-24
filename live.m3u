@@ -536,7 +536,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?
 #EXTINF:-1 tvg-id="13" tvg-name="辽宁卫视" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://[2409:8087:1a01:df::4005]/TVOD/88888888/224/3221226089/main.m3u8
-、#EXTINF:-1 tvg-id="3" tvg-name="宁夏卫视" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/宁夏卫视.png" group-title="卫视",宁夏卫视
+#EXTINF:-1 tvg-id="3" tvg-name="宁夏卫视" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="宁夏卫视" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
