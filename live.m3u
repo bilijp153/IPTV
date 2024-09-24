@@ -776,7 +776,7 @@ http://avd.iptviptv.site:9694/hls/902/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台、
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
 https://stream1.freetv.fun/c0b813fdcf8e35946c0c91e75d6a2ed10a8b9094c02223e4cb83b282c977ef58.ctv
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqMjvn7iVYwGzMGqoeB1naA/ts
