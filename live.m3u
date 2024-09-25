@@ -797,13 +797,13 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqWCJFjtQuZ8nMD5mTKBCdA/ts
 #EXTINF:-1 tvg-id=““ tvg-name="明珠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/明珠台.png" group-title="港澳台",明珠台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrrZ5ncenELB6AlUE3DelmY/ts
 #EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuIGroaC9wxE0wQB9Exzbvw/ts
-#EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
-http://avd.iptviptv.site:9694/hls/906/index.m3u8
+http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKlT3I1CCRgUt9-bG7ZkVSJg/ts
 #EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKssBZTkutdvn2swo_aHRVus/ts
 #EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKlT3I1CCRgUt9-bG7ZkVSJg/ts
+http://avd.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
+http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuIGroaC9wxE0wQB9Exzbvw/ts
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=https://live.fanmingming.com/tv/无线星河台.png" group-title="港澳台",无线星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无线星河台" group-title="港澳台",无线星河台
