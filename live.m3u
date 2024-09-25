@@ -154,15 +154,15 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV17" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8?
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-https://stream1.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
+http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://159.75.85.63:5679/cctv4k.php
+https://stream1.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://php.jdshipin.com/TVOD/iptv.php?id=cctv4k
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://php.jdshipin.com/cqyx.php?id=CCTV4K
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
