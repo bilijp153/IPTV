@@ -983,7 +983,7 @@ http://37.27.111.214:8080/live/4/hls.m3u8
 http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视影剧台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视影剧台.png" group-title="港澳台",民视影剧
 http://37.27.111.214:8080/live/88/hls.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="公视戏剧台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/公视戏剧台.png" group-title="港澳台",公视戏剧
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="公视戏剧" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/公视戏剧.png" group-title="港澳台",公视戏剧
 http://37.27.111.214:8080/live/87/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
