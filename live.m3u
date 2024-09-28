@@ -986,12 +986,10 @@ https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKo80yx5YcVwhW5qrQe-FUP8/ts
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="中国教育3台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/三立新闻台.png" group-title="港澳台",三立新闻
+#EXTINF:-1 tvg-id=““ tvg-name="三立新闻台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/三立新闻台.png" group-title="港澳台",三立新闻
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/星空卫视.png" group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/星光综合台.png" group-title="港澳台",星光综合
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/耀才财经.png" group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲台
@@ -1064,8 +1062,6 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKsb-ddUcafO5mOrosr-qNkw/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKmCU23bds30ywkMIPkslQwI/ts
 #EXTINF:-1 xui-id="958" tvg-id=““ tvg-name="东森超视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/东森超视.png" group-title="港澳台",东森超视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKjDI_M0KX1OAoFu0cxK-9oo/ts
-#EXTINF:-1 xui-id="959" tvg-id=““ tvg-name="S超视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/349ff02eed30627e6d1bc25496e50f1b.png" group-title="港澳台",S超视
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKojjnoWsUv7HNR0zfJqXqNM/ts
 #EXTINF:-1 xui-id="965" tvg-id=““ tvg-name="华语电视" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/HYDS.jfif" group-title="港澳台",华语电视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs1ytKzwKVf7Od5Ap0iopao/ts
 #EXTINF:-1 xui-id="967" tvg-id=““ tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/纬来体育.png" group-title="港澳台",纬来体育
