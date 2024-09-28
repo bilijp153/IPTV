@@ -967,23 +967,23 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqjuDn4RUgSBW9OgLfbiyjI/ts
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="中视经典台" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中视经典台.png" group-title="港澳台",中视经典台
 http://37.27.111.214:8080/live/47/hls.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="台视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/台视.png" group-title="港澳台",台视
+#EXTINF:-1 tvg-id=““ tvg-name="台视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视.png" group-title="港澳台",台视
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-id=““ tvg-name="台视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/台视.png" group-title="港澳台",台视
+#EXTINF:-1 tvg-id=““ tvg-name="台视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视.png" group-title="港澳台",台视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKoNPc0tw73ojtVA95iWThDs/ts
-#EXTINF:-1 tvg-id=““ tvg-name="民视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视.png" group-title="港澳台",民视
+#EXTINF:-1 tvg-id=““ tvg-name="民视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视.png" group-title="港澳台",民视
 https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="民视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视.png" group-title="港澳台",民视
+#EXTINF:-1 tvg-id=““ tvg-name="民视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视.png" group-title="港澳台",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视新闻" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视新闻台.png" group-title="港澳台",民视新闻
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视新闻" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视新闻台.png" group-title="港澳台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视第一台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视第一台.png" group-title="港澳台",民视第一
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视第一台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视第一台.png" group-title="港澳台",民视第一
 http://37.27.111.214:8080/live/4/hls.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视台湾台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视台湾台.png" group-title="港澳台",民视台湾
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视台湾台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视台湾台.png" group-title="港澳台",民视台湾
 http://37.27.111.214:8080/live/5/hls.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视影剧台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视影剧台.png" group-title="港澳台",民视影剧
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视影剧台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视影剧台.png" group-title="港澳台",民视影剧
 http://37.27.111.214:8080/live/88/hls.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视戏剧台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/blob/main/png/民视戏剧台.png" group-title="港澳台",民视戏剧
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视戏剧台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视戏剧台.png" group-title="港澳台",民视戏剧
 http://37.27.111.214:8080/live/87/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
