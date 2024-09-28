@@ -924,21 +924,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 https://stream1.freetv.fun/1f5ab9d3767b4d8b2494facfd687ce858e0feafd81ce67a4f67b8346c5f5baff.ctv
 #EXTINF:-1,tvg-id=““ tvg-name="Channel [V] 中国" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/Channel [V] 中国.png" group-title="港澳台",中国环球电视
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="香港面包台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/香港面包台.png" group-title="港澳台",香港面包台
+#EXTINF:-1,tvg-id=““ tvg-name="香港面包台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/面包台.png" group-title="港澳台",香港面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="澳亚卫视4" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/澳亚卫视.png" group-title="港澳台",澳亚
+#EXTINF:-1,tvg-id=““ tvg-name="澳亚卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/澳亚卫视.png" group-title="港澳台",澳亚
 http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="澳门莲花" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/澳门莲花.png" group-title="港澳台",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1,tvg-id=““ tvg-name="澳亚卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/澳亚卫视.png" group-title="港澳台",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="澳门卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/澳门卫视.png" group-title="港澳台",澳门卫视
-https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="澳门莲花" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/澳门莲花.png" group-title="港澳台",澳门莲花
-#EXTINF:-1,tvg-id=““ tvg-name="Channel [V] 中国" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/Channel [V] 中国.png" group-title="港澳台",中國環球
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="亚洲武侠电视台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/亚洲电视台.png" group-title="港澳台",亚洲武侠
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="八大戏剧" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/八大戏剧台.png" group-title="港澳台",八大戏剧
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="八大戏剧" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/八大戏剧台.png" group-title="港澳台",八大戏剧
@@ -999,21 +992,19 @@ http://66.165.240.154:8080/live/slxw01/hls.m3u8
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/星光综合台.png" group-title="港澳台",星光综合
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/环球电视台.png" group-title="港澳台",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/耀才财经.png" group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲台
 http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/美亚电影台.png" group-title="港澳台",美亚
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="大爱一台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱一台.png" group-title="港澳台",大爱一台
+#EXTINF:-1,tvg-id=““ tvg-name="大爱一台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱1.png" group-title="港澳台",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="大爱一台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱一台.png" group-title="港澳台",大爱一台
+#EXTINF:-1,tvg-id=““ tvg-name="大爱一台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱1.png" group-title="港澳台",大爱一台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqBaJ81NpQjKaKBSa_07pak/ts
-#EXTINF:-1,tvg-id=““ tvg-name="大爱二台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱二台.png" group-title="港澳台",大爱二台
+#EXTINF:-1,tvg-id=““ tvg-name="大爱二台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱2.png" group-title="港澳台",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1,tvg-id=““ tvg-name="大爱二台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱二台.png" group-title="港澳台",大爱二台
+#EXTINF:-1,tvg-id=““ tvg-name="大爱二台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱2.png" group-title="港澳台",大爱二台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqceYh2rkmjcAb_ERD1vEbE/ts
 #EXTINF:-1 tvg-id=““ tvg-name="大立电视台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大立电视.png" group-title="港澳台",大立电视台  
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKgCSUyy-676G1JGrOojBw6Q/ts
@@ -1061,10 +1052,6 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKsuRjkQS07Q9nLExUYinPYU/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKiOYN-SwCe5Sm9EtDEowTRw/ts
 #EXTINF:-1 xui-id="951" tvg-id=““ tvg-name="TVBS亚洲" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBS亚洲.png" group-title="港澳台",TVBS亚洲
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKovV_CHxbbCYYu3Cpwtv-Qw/ts
-#EXTINF:-1 xui-id="952" tvg-id=““ tvg-name="半岛新闻台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/半岛新闻台.png" group-title="港澳台",半岛新闻台
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKmSCTbUeOSL_GBYArsqhBEs/ts
-#EXTINF:-1 xui-id="953" tvg-id=““ tvg-name="环球电视台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/环球旅游.png" group-title="港澳台",环球电视台
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqAd5XEGYMilDlplvNYDQQc/ts
 #EXTINF:-1 xui-id="954" tvg-id=““ tvg-name="MoMo综合" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/momo综合.png" group-title="港澳台",MoMo综合
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKpak5ADUOhKhfPvACyThPNQ/ts
 #EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天娱乐台.png" group-title="港澳台",中天娱乐台
@@ -1089,14 +1076,6 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuoMHWVeVmIuFXxDxyh4mso/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKhiRWnQpMs8kOwPO-iD-8Io/ts
 #EXTINF:-1 xui-id="970" tvg-id=““ tvg-name="纬来精彩" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/纬来精采.png" group-title="港澳台",纬来精采
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKkNO1dvguqPwKrBbC9k7DpM/ts
-#EXTINF:-1 xui-id="971" tvg-id=““ tvg-name="ELTA体育3" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/604bfa927abd99a972f58033de4a4b88.png" group-title="港澳台",ELTA体育3
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs5st2YFlso26ECFjRRBrZ8/ts
-#EXTINF:-1 xui-id="972" tvg-id=““ tvg-name="ELTA体育4" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/604bfa927abd99a972f58033de4a4b88.png" group-title="港澳台",ELTA体育4
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKhOFrgQApR7l57BbEDijLSY/ts
-#EXTINF:-1 xui-id="973" tvg-id=““ tvg-name="DAZN体育1" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/7cd79c697450d3de9ce47d03dec5a3d6.png" group-title="港澳台",DAZN体育1
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKsfv5BkCm-zanqRH6Wb_Qn8/ts
-#EXTINF:-1 xui-id="974" tvg-id=““ tvg-name="DAZN体育2" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/7cd79c697450d3de9ce47d03dec5a3d6.png" group-title="港澳台",DAZN体育2
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKgrAUiLhiODiMZ-yzFhz6eQ/ts
 #EXTINF:-1 xui-id="976" tvg-id=““ tvg-name="BBC new" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/BBC World News.png" group-title="港澳台",BBC new
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKsEaPFcj3qMzfkdwMKsTyVg/ts
 #EXTINF:-1 xui-id="977" tvg-id=““ tvg-name="CNN new" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CNN.png" group-title="港澳台",CNN new
