@@ -860,13 +860,13 @@ http://avd.iptviptv.site:9694/hls/906/index.m3u8
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuIGroaC9wxE0wQB9Exzbvw/ts
 #EXTINF:-1 tvg-id=““ tvg-name="功夫台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫台.png" group-title="港澳台",功夫台
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河台.png" group-title="港澳台",无线星河台
+#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="港澳台",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河台.png" group-title="港澳台",无线星河台
+#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="港澳台",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河台" group-title="港澳台",无线星河台
+#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="港澳台",TVB星河
 https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
-#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河台" group-title="港澳台",无线星河台
+#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河" group-title="港澳台",TVB星河
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKh3M-sfDOyv1WJSVcFM8ElA/ts
 #EXTINF:-1 tvg-id=““ tvg-name="TVBPlus" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png" group-title="港澳台",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
@@ -898,9 +898,9 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKssFnXxF0NyEBySQYYlJAs0/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKnPfFEx1O88BHf3OAMh09BE/ts
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/HOY-TV.png" group-title="港澳台",HOY国际财经
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKkTeooMSpie2AAAtA7raEpE/ts
-#EXTINF:40 group-title="港澳台" aktv-server-group="AKTV2" tvg-id="aktv2/viutv99" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="港澳台", viutv 99
+#EXTINF:40 group-title="港澳台" aktv-server-group="AKTV2" tvg-id="aktv2/viutv99" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/ViuTV.png" provider="AKTV2" provider-logo="" provider-type="港澳台", viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:41 group-title="港澳台" aktv-server-group="AKTV2" tvg-id="aktv2/viutv696" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="港澳台", viutv6 96
+#EXTINF:41 group-title="港澳台" aktv-server-group="AKTV2" tvg-id="aktv2/viutv696" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/ViuTV.png" provider="AKTV2" provider-logo="" provider-type="港澳台", viutv6 96
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/ViuTV.png" group-title="港澳台",VIUTV
 https://live.hkdvb.com/hls/live/99.m3u8?token=631170156107453
