@@ -6,11 +6,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221230656/1.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV1" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8?
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV2" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV2.png" group-title="央视",CCTV-2 财经
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+CCTV2,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV2" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV2.png" group-title="央视",CCTV-2 财经
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV2" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV2.png" group-title="央视",CCTV-2 财经
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8?
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV2" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV2.png" group-title="央视",CCTV-2 财经
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8?
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV3" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV3.png" group-title="央视",CCTV-3 综艺
+CCTV3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV3" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV3" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV3.png" group-title="央视",CCTV-3 综艺
@@ -18,11 +22,15 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV3" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226652/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV4" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV5" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5.png" group-title="央视",CCTV-5 体育
+CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV5" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV5" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5.png" group-title="央视",CCTV-5 体育
@@ -30,10 +38,14 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV5" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV5+" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV5+" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV5+" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV5+" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8?
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV6" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV6.png" group-title="央视",CCTV-6 电影
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/1.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV6" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV6.png" group-title="央视",CCTV-6 电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV6" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV6.png" group-title="央视",CCTV-6 电影
@@ -41,12 +53,16 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV6" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV6.png" group-title="央视",CCTV-6 电影
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV7" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV7.png" group-title="央视",CCTV-7  国防军事
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265007/1.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV7" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV7.png" group-title="央视",CCTV-7  国防军事
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV7" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV7.png" group-title="央视",CCTV-7  国防军事
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV7" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV7.png" group-title="央视",CCTV-7  国防军事
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8?
-##EXTINF:-1 tvg-id=““ tvg-name="CCTV8" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV8.png" group-title="央视",CCTV-8 电视剧
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV8" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV8" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV8" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
@@ -57,6 +73,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV8" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV9" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV9.png" group-title="央视",CCTV-9 记录
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/1.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV9" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV9.png" group-title="央视",CCTV-9 记录
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV9" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV9.png" group-title="央视",CCTV-9 记录
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
@@ -65,6 +83,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV9" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV9.png" group-title="央视",CCTV-9 记录
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV10" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV10.png" group-title="央视",CCTV-10 科教
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000012827/1.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV10" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV10.png" group-title="央视",CCTV-10 科教
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV10" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV10.png" group-title="央视",CCTV-10 科教
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
@@ -72,6 +92,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV10" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV10.png" group-title="央视",CCTV-10 科教
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV11" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV11" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV11" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV11.png" group-title="央视",CCTV-11 戏曲
@@ -82,11 +104,15 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV12" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV12" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV12" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV12" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV12" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV13" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV13" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221226125/main.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV13" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV13.png" group-title="央视",CCTV-13 新闻
@@ -103,6 +129,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV14" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV14" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV14" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV14" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
@@ -113,12 +141,16 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV14" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8?
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV15" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000008163/1.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV15" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV15" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV15" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV15" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV15.png" group-title="央视",CCTV-15 音乐
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV16" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV16" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV16" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
@@ -145,6 +177,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV16 4K" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+##EXTINF:-1 tvg-id=““ tvg-name="CCTV17" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 ##EXTINF:-1 tvg-id=““ tvg-name="CCTV17" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV17" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV17.png" group-title="央视",CCTV-17 农业农村
@@ -771,6 +805,8 @@ http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="延边卫视" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/延边卫视.png" group-title="卫视",延边卫视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuwvEDnUT3dm7ytVCbr62Ow/ts
 #EXTINF:-1 tvg-id=““ tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
 https://live.hkdvb.com/hls/live/81.m3u8?token=631170156107453
 #EXTINF:-1 tvg-id=““ tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqMjvn7iVYwGzMGqoeB1naA/ts
@@ -793,7 +829,11 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/ts
 #EXTINF:-1 tvg-id=““ tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKnBP3_eRz5GJq3TuZknRXUY/ts
 #EXTINF:-1 tvg-id=““ tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台4K
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="翡翠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/翡翠台.png" group-title="港澳台",翡翠台4K
 https://live.hkdvb.com/hls/live/800.m3u8?token=631170156107453
+#EXTINF:-1 tvg-id=““ tvg-name="明珠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/明珠台.png" group-title="港澳台",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="明珠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/明珠台.png" group-title="港澳台",明珠台
 https://live.hkdvb.com/hls/live/84.m3u8?token=631170156107453
 #EXTINF:-1 tvg-id=““ tvg-name="明珠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/明珠台.png" group-title="港澳台",明珠台
@@ -808,6 +848,8 @@ http://bziyunshao.synology.me:8890/bysid/2
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqWCJFjtQuZ8nMD5mTKBCdA/ts
 #EXTINF:-1 tvg-id=““ tvg-name="明珠台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/明珠台.png" group-title="港澳台",明珠台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrrZ5ncenELB6AlUE3DelmY/ts
+#EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKlT3I1CCRgUt9-bG7ZkVSJg/ts
 #EXTINF:-1 tvg-id=““ tvg-name="无线新闻" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/无线新闻台.png" group-title="港澳台",无线新闻
@@ -826,6 +868,8 @@ http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
 #EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/无线星河台" group-title="港澳台",无线星河台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKh3M-sfDOyv1WJSVcFM8ElA/ts
+#EXTINF:-1 tvg-id=““ tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVB Plus
 https://live.hkdvb.com/hls/live/82.m3u8?token=631170156107453
 #EXTINF:-1 tvg-id=““ tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVB Plus
@@ -854,6 +898,10 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKssFnXxF0NyEBySQYYlJAs0/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKnPfFEx1O88BHf3OAMh09BE/ts
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/HOY-TV.png" group-title="港澳台",HOY国际财经
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKkTeooMSpie2AAAtA7raEpE/ts
+#EXTINF:40 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/viutv99" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="港澳台", viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:41 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/viutv696" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="港澳台", viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/ViuTV.png" group-title="港澳台",VIUTV
 https://live.hkdvb.com/hls/live/99.m3u8?token=631170156107453
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/ViuTV.png" group-title="港澳台",VIUTV
@@ -871,7 +919,7 @@ http://php.jdshipin.com:8880/xsj.php?id=Now-finance
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/Now直播台.png" group-title="港澳台",Now直播台
 http://php.jdshipin.com:8880/xsj.php?id=Now-direct
 #EXTINF:-1 tvg-id=““ tvg-name="Now爆谷星影台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/Now爆谷星影台.png" group-title="港澳台",Now爆谷星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=631170156107453
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/Now华剧台.png" group-title="港澳台",Now华剧台
 http://php.jdshipin.com:8880/xsj.php?id=Now-chinese-drama
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/RTHK31.png" group-title="港澳台",RHK31
@@ -947,6 +995,8 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="八大综合" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/八大综合台.png" group-title="港澳台",八大综合
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKpiXTgMFBEhSEguALu5-Rmw/ts
 #EXTINF:-1 tvg-id=““ tvg-name="中视" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中视.png" group-title="港澳台",中视
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="中视" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中视.png" group-title="港澳台",中视
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="中视" tvg-logo="  https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中视.png" group-title="港澳台",中视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKqjuDn4RUgSBW9OgLfbiyjI/ts
@@ -972,6 +1022,8 @@ http://37.27.111.214:8080/live/5/hls.m3u8
 http://37.27.111.214:8080/live/88/hls.m3u8
 #EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="公视戏剧" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/公视戏剧.png" group-title="港澳台",公视戏剧
 http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
@@ -1005,7 +1057,11 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKgCSUyy-676G1JGrOojBw6Q/ts
 #EXTINF:-1 tvg-id=““ tvg-name="大立电视台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/大立电视.png" group-title="港澳台",大立电视台  
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="TVBS" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBS.png" group-title="港澳台",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="TVBS" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBS.png" group-title="港澳台",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="TVBS新闻台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBS新闻.png" group-title="港澳台",TVBS新闻台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="TVBS新闻台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBS新闻.png" group-title="港澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="TVBS欢乐台" tvg-logo=" https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBS欢乐.png" group-title="港澳台",TVBS欢乐台
@@ -1048,6 +1104,10 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKiOYN-SwCe5Sm9EtDEowTRw/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKovV_CHxbbCYYu3Cpwtv-Qw/ts
 #EXTINF:-1 xui-id="954" tvg-id=““ tvg-name="MoMo综合" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/momo综合.png" group-title="港澳台",MoMo综合
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKpak5ADUOhKhfPvACyThPNQ/ts
+#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天娱乐台.png" group-title="港澳台",中天娱乐台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrYSBzynA65GDW_mC4Fhc1I/ts
 #EXTINF:-1 xui-id="975" tvg-id=““ tvg-name="亚洲新闻台" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/bilijp153/TVlogo/main/png/东森亚洲台.png" group-title="港澳台",东森亚洲台
