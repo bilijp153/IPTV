@@ -1032,16 +1032,22 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKptGnyKsVvYOi5aR_tX1yZk/ts
 https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="台视新闻台" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视新闻台.png" group-title="港澳台",台视新闻
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKo80yx5YcVwhW5qrQe-FUP8/ts
+#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天新闻" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="中天亚洲" tvg-logo="  https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲
+http://livetv.skycf.eu.org/live.m3u8?c=3
+#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天亚洲" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天娱乐台.png" group-title="港澳台",中天娱乐
+http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrYSBzynA65GDW_mC4Fhc1I/ts
 #EXTINF:-1 tvg-id=““ tvg-name="三立新闻台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/三立新闻台.png" group-title="港澳台",三立新闻
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/星空卫视.png" group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/耀才财经.png" group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="  https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲台
-http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="  https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/美亚电影台.png" group-title="港澳台",美亚
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="大爱一台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱1.png" group-title="港澳台",大爱一台
@@ -1104,12 +1110,6 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKiOYN-SwCe5Sm9EtDEowTRw/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKovV_CHxbbCYYu3Cpwtv-Qw/ts
 #EXTINF:-1 xui-id="954" tvg-id=““ tvg-name="MoMo综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/momo综合.png" group-title="港澳台",MoMo综合
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKpak5ADUOhKhfPvACyThPNQ/ts
-#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天亚洲台.png" group-title="港澳台",中天亚洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天娱乐台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天娱乐台.png" group-title="港澳台",中天娱乐台
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrYSBzynA65GDW_mC4Fhc1I/ts
 #EXTINF:-1 xui-id="975" tvg-id=““ tvg-name="亚洲新闻台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/东森亚洲台.png" group-title="港澳台",东森亚洲台
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrDudd1GGG4Y1pUCiZbABkE/ts
 #EXTINF:-1 xui-id="956" tvg-id=““ tvg-name="东森美洲" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/DSMZ.jfif" group-title="港澳台",东森美洲
