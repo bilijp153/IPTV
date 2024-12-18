@@ -805,6 +805,10 @@ http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="延边卫视" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/延边卫视.png" group-title="卫视",延边卫视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuwvEDnUT3dm7ytVCbr62Ow/ts
 #EXTINF:-1 tvg-id=““ tvg-name="黑莓动画" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/黑莓动画.png" group-title="卫视",黑莓动画
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="黑莓动画" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/黑莓动画.png" group-title="卫视",黑莓动画
+黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225662/2.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="黑莓动画" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/黑莓动画.png" group-title="卫视",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="黑莓动画" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/黑莓动画.png" group-title="卫视",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
@@ -818,6 +822,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
 http://[2409:8087:2801:22:100::5b]/wh7f454c46tw1961796689_-1584086032/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8?icpid=88888888&RTS=1717817081&from=5&ocs=2_2409:8087:2801:22:100::7c_80&hms_devid=322&online=1717817081&vqe=3
 #EXTINF:-1 tvg-id=““ tvg-name="黑莓动画" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/黑莓动画.png" group-title="卫视",黑莓动画
 http://[2409:8087:1a01:df::4007]/TVOD/88888888/224/3221225529/main.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="卡酷少儿" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/卡酷少儿.png" group-title="卫视",卡酷少儿
+http://[2409:8087:5e08:24::11]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 #EXTINF:-1 tvg-id=““ tvg-name="卡酷少儿" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/卡酷少儿.png" group-title="卫视",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="卡酷少儿" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/卡酷少儿.png" group-title="卫视",卡酷少儿
@@ -835,7 +841,11 @@ http://116.233.34.25:7777/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="卡酷少儿" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/卡酷少儿.png" group-title="卫视",卡酷少儿
 https://stream1.freetv.fun/dcbc7525aff33fe5ac2363981c8fc101d4f0d9d7cd0796427ac956214b9230a4.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="动漫秀场" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/动漫秀场.png" group-title="卫视",动漫秀场
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="动漫秀场" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/动漫秀场.png" group-title="卫视",动漫秀场
 http://[2409:8087:74F1:0021::0008]/000000001000PLTV/88888888/224/3221226197/index.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id=““ tvg-name="哈哈炫动" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/哈哈炫动.png" group-title="卫视",哈哈炫动
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226618/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="哈哈炫动" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/哈哈炫动.png" group-title="卫视",哈哈炫动
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="哈哈炫动" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/哈哈炫动.png" group-title="卫视",哈哈炫动
@@ -850,6 +860,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="哈哈炫动" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/哈哈炫动.png" group-title="卫视",哈哈炫动
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
+#EXTINF:-1 tvg-id=““ tvg-name="金鹰卡通" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/金鹰卡通.png" group-title="卫视",金鹰卡通
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id=““ tvg-name="金鹰卡通" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="金鹰卡通" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/金鹰卡通.png" group-title="卫视",金鹰卡通
