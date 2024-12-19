@@ -990,11 +990,11 @@ http://bziyunshao.synology.me:8890/bysid/82
 http://avd.iptviptv.site:9694/hls/905/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="TVBPlus" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVBPlus.png" group-title="港澳台",TVB Plus
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKoj-I2JqTtgGjh_pNTR9PaY/ts
-#EXTINF:-1 tvg-id=““ tvg-name="功夫台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/功夫台.png" group-title="港澳台",功夫台
+#EXTINF:-1 tvg-id=““ tvg-name="功夫台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/功夫台.png" group-title="港澳台",功夫台
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVB星河.png" group-title="港澳台",TVB星河
+#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVB星河.png" group-title="港澳台",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo=https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVB星河.png" group-title="港澳台",TVB星河
+#EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVB星河.png" group-title="港澳台",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="星河台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/TVB星河.png" group-title="港澳台",TVB星河
 https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
@@ -1278,3 +1278,4 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKkNO1dvguqPwKrBbC9k7DpM/ts
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKsEaPFcj3qMzfkdwMKsTyVg/ts
 #EXTINF:-1 xui-id="977" tvg-id=““ tvg-name="CNN new" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CNN.png" group-title="港澳台",CNN new
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKpYR7bVELYJ_sxzgPglahzY/ts
+
