@@ -190,7 +190,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV17" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8?
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-ttp://115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil/index.m3u8?fmt=ts2hls
+http://115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
