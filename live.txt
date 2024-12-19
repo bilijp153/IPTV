@@ -162,6 +162,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV16" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://106.111.244.30:3000/rtp/239.49.9.58:6000
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV16 4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV16 4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000008000023254
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV16 4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://php.jdshipin.com/bst2.php?id=cctv16hd4k/15000000
@@ -187,6 +189,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV17" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8?
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+ttp://115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
