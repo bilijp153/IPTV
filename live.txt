@@ -1010,7 +1010,7 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="娱乐新闻台" tvg-logo="" group-title="港澳台",娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-##EXTINF:-1 tvg-id=““ tvg-name="东方卫视国际" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/东方卫视.png" group-title="港澳台",东方卫视国际
+#EXTINF:-1 tvg-id=““ tvg-name="东方卫视国际" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/东方卫视.png" group-title="港澳台",东方卫视国际
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 ##EXTINF:-1 tvg-id=““ tvg-name="美亚电影台" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/美亚电影台.png" group-title="港澳台",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
