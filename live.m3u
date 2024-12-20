@@ -1192,6 +1192,10 @@ https://github.com/Free-TV/IPTV/blob/master/lists
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id=““ tvg-name="台视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视.png" group-title="港澳台",台视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKoNPc0tw73ojtVA95iWThDs/ts
+#EXTINF:-1 tvg-id=““ tvg-name="台视新闻台" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视新闻台.png" group-title="港澳台",台视新闻
+https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="台视新闻台" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视新闻台.png" group-title="港澳台",台视新闻
+http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKo80yx5YcVwhW5qrQe-FUP8/ts
 #EXTINF:-1 tvg-id=““ tvg-name="民视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视.png" group-title="港澳台",民视
 https://stream1.freetv.fun/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="民视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视.png" group-title="港澳台",民视
@@ -1204,8 +1208,6 @@ http://37.27.111.214:8080/live/4/hls.m3u8
 http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="民视影剧台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/民视影剧台.png" group-title="港澳台",民视影剧
 http://37.27.111.214:8080/live/88/hls.m3u8
-#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="公视戏剧" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/公视戏剧.png" group-title="港澳台",公视戏剧
-http://37.27.111.214:8080/live/87/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="华视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/华视.png" group-title="港澳台",华视
@@ -1216,10 +1218,8 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKptGnyKsVvYOi5aR_tX1yZk/ts
 https://github.com/Free-TV/IPTV/blob/master/lists
 #EXTINF:-1 tvg-id=““ tvg-name="公视台语台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/公视台语台.png" group-title="港澳台",公视台语台
 https://www.youtube.com/watch?v=6KlRR_DGhmI
-#EXTINF:-1 tvg-id=““ tvg-name="台视新闻台" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视新闻台.png" group-title="港澳台",台视新闻
-https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8
-#EXTINF:-1 tvg-id=““ tvg-name="台视新闻台" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/台视新闻台.png" group-title="港澳台",台视新闻
-http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKo80yx5YcVwhW5qrQe-FUP8/ts
+#EXTINF:-1 xui-id="940" tvg-id=““ tvg-name="公视戏剧" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/公视戏剧.png" group-title="港澳台",公视戏剧
+http://37.27.111.214:8080/live/87/hls.m3u8
 #EXTINF:-1 xui-id="955" tvg-id=““ tvg-name="中天新闻" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/中天新闻台.png" group-title="港澳台",中天新闻
@@ -1234,8 +1234,6 @@ http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKrYSBzynA65GDW_mC4Fhc1I/ts
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/星空卫视.png" group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/耀才财经.png" group-title="港澳台",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo="  https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/美亚电影台.png" group-title="港澳台",美亚
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="大爱一台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/大爱1.png" group-title="港澳台",大爱一台
@@ -1282,8 +1280,11 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1823419144.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="耀才财经" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/耀才财经.png" group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 tvg-id=““ tvg-name="耀才财经" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/耀才财经.png" group-title="港澳台",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id=““ tvg-name="唯心电视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/唯心电视.png" group-title="港澳台",唯心电视
 httmobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1,tvg-id=““ tvg-name="唯心电视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/唯心电视.png" group-title="港澳台",唯心电视
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKmUpvLD78isBzB_El-KX6OE/ts
 #EXTINF:-1 xui-id="945" tvg-id=““ tvg-name="非凡新闻" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/非凡新闻.png" group-title="港澳台",非凡新闻
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKr2WwbVdHJVIKKK705vhaXY/ts
