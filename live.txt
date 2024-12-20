@@ -195,6 +195,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 https://stream1.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://61.55.47.112:4022/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
@@ -988,7 +990,8 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="千禧经典台" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/super.png" group-title="港澳台",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="娱乐新闻台" tvg-logo="" group-title="港澳台",娱乐新闻台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8#EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/RTHK31.png" group-title="港澳台",RHK31
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/RTHK31.png" group-title="港澳台",RHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/RTHK31.png" group-title="港澳台",RHK31
 https://live.hkdvb.com/hls/live/31.m3u8?token=631170156107453
