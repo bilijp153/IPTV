@@ -195,6 +195,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 https://stream1.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://61.55.47.112:4022/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id=““ tvg-name="CCTV4K" tvg-logo=" https://gh.llkk.cc/https://raw.githubusercontent.com/bilijp153/TVlogo/main/png/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
