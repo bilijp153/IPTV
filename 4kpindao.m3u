@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://11.112114.xyz/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://11.112114.xyz/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
