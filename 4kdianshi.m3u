@@ -1,15 +1,15 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz"
-#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://raw.githubusercontent.com//bilijp153/IPTV/main/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://epg.v1.mk/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://raw.githubusercontent.com//bilijp153/IPTV/main/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
+#EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://11.112114.xyz/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
+#EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://epg.v1.mk/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
 https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=f64b4992df7414585e91590bb6a86812&txTime=68DA5477
-#EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://11.112114.xyz/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
+#EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
 https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8?txSecret=5900e5bded48fa9a3044a548cefbdfb6&txTime=68DA5477
-#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://11.112114.xyz/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
+#EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
 https://visual-play.v.btime.com/live/btv_shiting_s110.m3u8?txSecret=3912e6cfaa58a673fa9a4990a5174cb6&txTime=68DA5B4F
-#EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://11.112114.xyz/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
+#EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
 https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080-video.m3u8?aliyunols=on&auth_key=1759141937-0-0-a418cfe74b2285f21e8cc806a3cfa1b0
 
 
