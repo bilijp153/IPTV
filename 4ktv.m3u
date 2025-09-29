@@ -4,10 +4,12 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://epg.v1.mk/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
-https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=f64b4992df7414585e91590bb6a86812&txTime=68DA5477
+https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=16a35b6d4de0495bd6c9a9ab65e7a12a&txTime=68DA7EF3
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
 https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8?txSecret=5900e5bded48fa9a3044a548cefbdfb6&txTime=68DA5477
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
 https://visual-play.v.btime.com/live/btv_shiting_s110.m3u8?txSecret=3912e6cfaa58a673fa9a4990a5174cb6&txTime=68DA5B4F
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
-https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080-video.m3u8?aliyunols=on&auth_key=1759141937-0-0-a418cfe74b2285f21e8cc806a3cfa1b0
+https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080-video.m3u8?aliyunols=on&auth_key=1759149811-0-0-cda936d4e137e084e654e10b91f9fd55
+#EXTINF:-1 tvg-name="山东卫视4k" tvg-logo="https://epg.v1.mk/logo/山东卫视4k.png" group-title="4k频道",山东卫视4k
+https://tfpk2409X8c28X2481X507X0X0X0X1e-alivealone302litenewscn.100ycdn.com/alivealone302.litenews.cn/29/ae98178b582543a1a93cff5a897f69c4/playlist.m3u8?k=d3f8e4eed76f9ab086206a3f46968e40&t=1759145015&wsSession=857bb0e311248e87838e70c0-175914621178358&wsIPSercert=03d6623d647f8a98c4f3a0e523ddfe55&wsiphost=local&wsBindIP=1
