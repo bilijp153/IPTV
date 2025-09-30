@@ -6,7 +6,7 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://epg.v1.mk/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
-https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=16a35b6d4de0495bd6c9a9ab65e7a12a&txTime=68DA7EF3
+https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=a1d8ec2e2e61fb2bbc406ea1886325d0&txTime=68DB5A7F
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
 http://free.cnlive.club/channel/n59e8ed26/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
