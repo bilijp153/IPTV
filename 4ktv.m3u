@@ -20,7 +20,7 @@ http://free.cnlive.club/channel/n59e8ed26/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
 https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8?txSecret=63260d68ad09635e4d0ef120943b12b8&txTime=68DB681B
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
-http://114.104.183.207:8686/rtp/238.1.79.24:4304
+http://218.81.49.100:10010/rtp/233.18.204.209:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
 http://aiony.top:35455/yhyx/IP-BJWS-4K.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
