@@ -6,27 +6,31 @@ http://117.69.146.162:8688/rtp/238.1.79.28:4336
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
-http://117.69.146.162:8686/rtp/238.1.79.38:4416
+http://183.166.145.59:8688/rtp/238.1.79.38:4416
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
-http://183.164.37.50:4022/rtp/238.1.79.39:4428
+http://114.104.183.207:8686/rtp/238.1.79.39:4428
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
 https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=a1d8ec2e2e61fb2bbc406ea1886325d0&txTime=68DB5A7F
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
+http://114.104.141.75:8686/rtp/238.1.78.37:4088
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
 http://free.cnlive.club/channel/n59e8ed26/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
-https://cdn3.163189.xyz/163189/szws4k
+https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8?txSecret=63260d68ad09635e4d0ef120943b12b8&txTime=68DB681B
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
-http://117.69.146.162:8686/rtp/238.1.79.24:4304
+http://114.104.183.207:8686/rtp/238.1.79.24:4304
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
+http://aiony.top:35455/yhyx/IP-BJWS-4K.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
 https://visual-play.v.btime.com/live/btv_shiting_s110.m3u8?txSecret=d9d928cedac6223e06feda7f5124f1bb&txTime=68DB5A7F
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
-http://114.104.141.75:8686/rtp/238.1.79.51:4520
+http://117.69.146.162:8686/rtp/238.1.79.51:4520
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
 https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080-video.m3u8?aliyunols=on&auth_key=1759206015-0-0-9b2f4576734e1c4f86178ad6fabfb466
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视4k.png" group-title="4k频道",山东卫视4k
-http://183.166.145.59:8688/rtp/238.1.79.29:4344
+http://117.69.146.162:8688/rtp/238.1.79.29:4344
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视4k.png" group-title="4k频道",山东卫视4k
 https://tfpl4gch1hcjzgwzdrpbafa3u1mmbptwzc3mbptzsh3jugy3y.100ycdn.com/alivealone302.litenews.cn/29/ae98178b582543a1a93cff5a897f69c4/playlist.m3u8?k=6f346b8cc935c3a5a63dcf234b13ed23&t=1759201606&wsSession=77e711501a17cb4d023a92b7-175920241631380&wsIPSercert=3f0506fdd768bdc69d1e9bbeceea6624&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="38" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视4k.png" group-title="4k频道",河南卫视4k
@@ -36,4 +40,6 @@ http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 #EXTINF:-1 tvg-id="38" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视4k.png" group-title="4k频道",深圳卫视4k
 https://cdn3.163189.xyz/163189/szws4k
 #EXTINF:-1 tvg-id="38" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视4k.png" group-title="4k频道",深圳卫视4k
-http://183.166.145.59:8688/rtp/238.1.79.26:4320
+http://183.33.58.238:8686/udp/239.77.1.14:5146
+#EXTINF:-1 tvg-id="38" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视4k.png" group-title="4k频道",深圳卫视4k
+http://36.129.204.120:65501/1086.m3u8
