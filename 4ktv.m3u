@@ -6,7 +6,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 #EXTINF:-1 tvg-name="东方卫视4k" tvg-logo="https://epg.v1.mk/logo/东方卫视4k.png" group-title="4k频道",东方卫视4k
 https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=16a35b6d4de0495bd6c9a9ab65e7a12a&txTime=68DA7EF3
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
-https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8?txSecret=5900e5bded48fa9a3044a548cefbdfb6&txTime=68DA5477
+http://free.cnlive.club/channel/n59e8ed26/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
 https://visual-play.v.btime.com/live/btv_shiting_s110.m3u8?txSecret=3912e6cfaa58a673fa9a4990a5174cb6&txTime=68DA5B4F
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
