@@ -9,8 +9,12 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8?txSecret=a1d8ec2e2e61fb2bbc406ea1886325d0&txTime=68DB5A7F
 #EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
 http://free.cnlive.club/channel/n59e8ed26/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视4k" tvg-logo="https://epg.v1.mk/logo/江苏卫视4k.png" group-title="4k频道",江苏卫视4k
+https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8?txSecret=64fba565b863ddbe000ab8ca0e346358&txTime=68DB5A7F
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4k频道",北京卫视4k
-https://visual-play.v.btime.com/live/btv_shiting_s110.m3u8?txSecret=3912e6cfaa58a673fa9a4990a5174cb6&txTime=68DA5B4F
+https://visual-play.v.btime.com/live/btv_shiting_s110.m3u8?txSecret=d9d928cedac6223e06feda7f5124f1bb&txTime=68DB5A7F
+#EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
+https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080-video.m3u8?aliyunols=on&auth_key=1759206015-0-0-9b2f4576734e1c4f86178ad6fabfb466
 #EXTINF:-1 tvg-name="四川卫视4k" tvg-logo="https://epg.v1.mk/logo/四川卫视4k.png" group-title="4k频道",四川卫视4k
 https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080-video.m3u8?aliyunols=on&auth_key=1759149811-0-0-cda936d4e137e084e654e10b91f9fd55
 #EXTINF:-1 tvg-name="山东卫视4k" tvg-logo="https://epg.v1.mk/logo/山东卫视4k.png" group-title="4k频道",山东卫视4k
