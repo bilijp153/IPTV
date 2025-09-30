@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://epg.v1.mk/logo/CCTV4k.png" group-title="4k频道",CCTV4k
-https://freetv.top/m4k/cctv4k.m3u8
+https://stream1.freetv.fun/cctv4k-2.ctv
 #EXTINF:-1 tvg-name="浙江卫视4k" tvg-logo="https://epg.v1.mk/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="湖南卫视4k" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
