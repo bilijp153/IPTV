@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.51zmt.top:8001/e.xml"
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/CCTV4k.png" group-title="4k频道",CCTV4k
 https://stream1.freetv.fun/cctv4k-2.ctv
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
