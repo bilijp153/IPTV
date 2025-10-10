@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/CCTV4k.png" group-title="4k频道",CCTV4k
 https://stream1.freetv.fun/cctv4k-2.ctv
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
-http://59.174.160.155:6789/rtp/239.69.2.34:11358
+http://60.168.109.39:4000/rtp/238.1.79.28:4336
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视4k.png" group-title="4k频道",浙江卫视4k
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视4k.png" group-title="4k频道",湖南卫视4k
