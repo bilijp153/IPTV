@@ -3,3 +3,11 @@
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
 #EXTINF:-1 tvg-id=““ tvg-name="湖南卫视" tvg-logo=" https://cdn.jsdelivr.net/gh/bilijp153/TVlogo@main/png/湖南卫视.png" group-title="卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id=““ tvg-name="湖南卫视" tvg-logo=" https://cdn.jsdelivr.net/gh/bilijp153/TVlogo@main/png/湖南卫视.png" group-title="卫视",湖南卫视
+http://www.hkyc.site:1991/rtp/239.253.64.60:5140
+#EXTINF:-1 tvg-id=““ tvg-name="湖南卫视" tvg-logo=" https://cdn.jsdelivr.net/gh/bilijp153/TVlogo@main/png/湖南卫视.png" group-title="卫视",湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308827/main.m3u8?stbid=?$4K
+#EXTINF:-1 tvg-id=““ tvg-name="湖南卫视" tvg-logo=" https://cdn.jsdelivr.net/gh/bilijp153/TVlogo@main/png/湖南卫视.png" group-title="卫视",湖南卫视
+http://175.8.180.171:7878/udp/239.76.253.214:9000
+#EXTINF:-1 tvg-id=““ tvg-name="湖南卫视" tvg-logo=" https://cdn.jsdelivr.net/gh/bilijp153/TVlogo@main/png/湖南卫视.png" group-title="卫视",湖南卫视
+http://175.8.180.171:7878/udp/239.76.246.224:1234
